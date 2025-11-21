@@ -14,13 +14,9 @@ Die aktuelle Version stellt den **Rohbau** dar und dient als Basis für spätere
 ## Development / Target Platform
 - **Engine:** Unity (VR Template)  
 - **Entwicklungsplattform:** PC  
-- **Zielplattform:** Meta Quest / PCVR (je nach Vorgabe)  
+- **Zielplattform:** Meta Quest
 
 ## Playthrough
-- Freies Bewegen durch die Räume  
+- Freies Bewegen durch die Räume (noch nicht implementiert)
 - Besichtigung der räumlichen Aufteilung  
-- Türen/Fenster aktuell **nicht interaktiv**  
-
-## Installation / Ausführen
-   ```bash
-   git clone https://github.com/gabWag08/17-Samrthome-wagg.git
+ 
